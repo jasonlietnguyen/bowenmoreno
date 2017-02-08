@@ -7,7 +7,7 @@
 	border-radius: 0;
 	padding: 15px 30px;
 	cursor: pointer;
-	font-weight: 100;
+	font-weight: 300;
 }
 /*Padding*/
 .xs-padding{
@@ -63,7 +63,6 @@
 	color: white;
 	float: right;
 	display: block;
-	font-weight: 200;
 }
 .landing .btn:hover{
 	background-color: rgba(255,87,34,.9);
@@ -85,6 +84,7 @@
     margin-right: -50%;
     transform: translate(-50%, -50%);
     color: white;
+    font-weight: 300;
 }
 .categories .btn:hover{
 	background-color: rgba(255,87,34,.8);
